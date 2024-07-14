@@ -1,2 +1,2 @@
 # ansible-training
-this is info page
+this is info page for ansible
